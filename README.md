@@ -20,9 +20,12 @@ This analysis was done with the help of Python programming language and its data
 
 The data used in this project was obtained from various sources, including the official government websites and publications, such as the Central Electricity Authority, Ministry of Health and Family Welfare, and Ministry of Agriculture and Farmers Welfare.
 
-<Credits>
+<h2>Credits</h2>
 
 Objective 1: Manasvi Jain
+  <br>
 Objective 2: Ritika Kuwera
+  <br>
 Objective 3: Prapti Bhatt
+  <br>
 Objective 4: Rajika Patel
